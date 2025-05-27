@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project examines life expectancy data from the **World Health Organisation (WHO)** to identify key factors influencing longevity and to develop predictive linear regression models.
 
-Developed as part of the **Digital Futures training program**, this work combines exploratory data analysis, feature engineering, and model evaluation to build a reliable, interpretable machine learning pipeline.
+As part of the **Digital Futures training program**, this work combines exploratory data analysis, feature engineering, and model evaluation to build a reliable, interpretable machine learning pipeline.
 
 ## 📁 Contents
 | File | Description |
@@ -14,7 +14,7 @@ Developed as part of the **Digital Futures training program**, this work combine
 
 ## ✅ Key Highlights
 
-- ✅ **Robust EDA**: Addressed missing values, data types, and outliers; visualized trends by region and year.
+- ✅ **Robust EDA**: Addressed missing values, data types, and outliers - visualised trends by region and year.
 - ✅ **Ethical Feature Selection**: Isolated models using sensitive and non-sensitive predictors to explore model fairness.
 - ✅ **Data Engineering**: One-hot encoding, feature scaling with `RobustScaler`, and transformations like log scaling for skewed features.
 - ✅ **Multicollinearity Check**: Used **Variance Inflation Factor (VIF)** to identify and mitigate multicollinearity.
