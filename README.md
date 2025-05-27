@@ -1,4 +1,4 @@
-# 🏥 WHO-Life-Expectancy 🏥 
+# 🌐 WHO-Life-Expectancy 🌐
 
 ## 🩺 Project Overview 🩺 
 This project examines life expectancy data from the **World Health Organisation (WHO)** to identify key factors influencing longevity and to develop predictive linear regression models.
